@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "君の寂しさになりたい",
+  "base_artist": "中瀬ミル",
+  "createdAt": "2026-02-12T09:42:55.648728Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "君の寂しさになりたい",
+      "artist": "中瀬ミル",
+      "has_synced": false,
+      "path": "select/pl_01_君の寂しさになりたい_中瀬ミル.txt"
+    }
+  ]
+}
